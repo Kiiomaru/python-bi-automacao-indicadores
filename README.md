@@ -21,7 +21,8 @@ O script transforma dados brutos em insights visuais instantâneos. Abaixo, um e
 
 ## 🧰 Stack Técnica
 * **Linguagem:** Python
-* **Bibliotecas:** * `Pandas`: Manipulação e tratamento de dados.
+* **Bibliotecas:**
+    *  `Pandas`: Manipulação e tratamento de dados.
     * `Matplotlib`: Criação de gráficos e visualização de indicadores.
     * `OS`: Automação de leitura de arquivos do sistema.
 
