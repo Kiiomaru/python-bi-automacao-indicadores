@@ -15,7 +15,8 @@ Desenvolvi uma solução de **ETL (Extract, Transform, Load)** em Python que aut
 O script transforma dados brutos em insights visuais instantâneos. Abaixo, um exemplo do gráfico de performance gerado automaticamente pelo sistema, permitindo a análise imediata do faturamento por área de negócio:
 
 ![Gráfico de Performance de Vendas]
-(![Uploading Captura de tela 2026-04-29 051441.png…])
+<img width="768" height="651" alt="Captura de tela 2026-04-29 051441" src="https://github.com/user-attachments/assets/04d5661d-9fde-4a54-bc9d-f3f79bdf0375" />
+
 
 ## 🧰 Stack Técnica
 * **Linguagem:** Python
